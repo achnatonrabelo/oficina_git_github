@@ -1,3 +1,8 @@
+'''
+Docstring for casting
+Demonstrando como fazer casting no Python
+'''
+
 # x = int(6)
 # y = int(5.5)
 # z = int("100101")
